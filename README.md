@@ -6,3 +6,5 @@ https://trello.com/invite/b/68fa1586f125c1f7e52f2c33/ATTIa77b2bf9bed44221cf8fc7f
 Hugo Salvador Aizpún - Jefe Proyecto
 
 Ivan De Rada Lopez - Analista
+
+Raúl Vicente Sánchez - Analista
