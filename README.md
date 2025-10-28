@@ -8,3 +8,5 @@ Hugo Salvador Aizpún - Jefe Proyecto
 Ivan De Rada Lopez - Analista
 
 Raúl Vicente Sánchez - Analista
+
+Pablo Sastre Noriega - Arquitecto
