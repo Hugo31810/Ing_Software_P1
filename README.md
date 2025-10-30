@@ -9,4 +9,7 @@ Ivan De Rada Lopez - Analista
 
 Raúl Vicente Sánchez - Analista
 
+Tomás Cano Santa Catalina - Analista
+
 Pablo Sastre Noriega - Arquitecto
+
