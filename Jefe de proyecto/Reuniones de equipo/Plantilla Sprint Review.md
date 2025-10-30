@@ -4,6 +4,7 @@ Objetivo:
 Evaluar qué se ha completado durante el sprint y qué se presentará como entregable.
 Esta reunión marca el cierre del sprint.
 
+
 1. Repaso de los objetivos del sprint
 
 - ¿Qué se había planificado hacer esta semana?
@@ -11,6 +12,7 @@ Esta reunión marca el cierre del sprint.
 - ¿Qué se logró exactamente?
 
 - ¿Qué tareas no se completaron y por qué?
+
 
 2. Demostración / revisión de resultados
 
@@ -21,12 +23,14 @@ Esta reunión marca el cierre del sprint.
   - Arquitectos: muestran los diagramas UML creados o modificados.
 
   - Jefe de proyecto: enseña el Trello actualizado y comenta el estado general del sprint.
+  
 
 3. Identificación de bloqueos o incidencias
 
 - ¿Qué obstáculos aparecieron durante el sprint?
 
 - ¿Qué se puede mejorar en la comunicación, documentación o herramientas?
+
 
 4. Actualización del Trello
 
@@ -37,6 +41,7 @@ Esta reunión marca el cierre del sprint.
 - Qué quedó pendiente
 
 - Qué se hará en el siguiente sprint
+
 
 5. Cierre y Retrospectiva rápida
 
