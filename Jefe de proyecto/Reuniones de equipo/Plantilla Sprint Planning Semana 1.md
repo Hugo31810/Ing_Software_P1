@@ -4,7 +4,7 @@ Objetivo:
 Definir qué se va a hacer durante la semana (sprint) y quién se encargará de cada tarea.
 En Scrum, esta reunión marca el inicio del sprint.
 
-1. Revisión rápida del sprint anterior
+1. Revisión rápida del sprint anterior: 
 
 - ¿Qué tareas se completaron?
 
@@ -14,9 +14,9 @@ En Scrum, esta reunión marca el inicio del sprint.
 
 2. Definición de objetivos del sprint actual
 
-¿Qué queremos conseguir al final de la semana?
+- ¿Qué queremos conseguir al final de la semana?
 
-Identificar tareas prioritarias.
+- Identificar tareas prioritarias.
 
 Definir entregables concretos.
 
