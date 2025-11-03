@@ -38,4 +38,5 @@ Definir entregables concretos.
   - Todas la tareas mencionadas anteriormente deben de estar completas para el domingo
 
 ## Captura del trello al inicio de este sprint
+
 ![[Trello_inicio_primera_semana.png]]
