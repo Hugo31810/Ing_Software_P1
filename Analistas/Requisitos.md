@@ -1,4 +1,4 @@
-# Requisitos del Sistema
+# Requisitos de Dominio
 
 A continuación se detallan los requisitos de dominio identificados para el caso de estudio.
 
